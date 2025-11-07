@@ -11,6 +11,7 @@
 #include <vector>
 #include "const1.h"
 #include "fftreal.h"
+#include "mclt.h"
 
 // ============================================================================
 // MOCK TYPES AND MACROS (since we don't have the full codebase)
