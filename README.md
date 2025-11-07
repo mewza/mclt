@@ -9,11 +9,6 @@ templatable with a SIMD vector support.
 LICENSE: FREE for Commercial and non-commercial use, but would appreciate
 credits in About box and/or documentation, or READMEs
 
-╔════════════════════════════════════════════════════════╗
-║         MCLT TEST SUITE - WITH CORRECTED SCALING       ║
-╚════════════════════════════════════════════════════════╝
-
-
 === TESTING MCLT DIRECT (NO TDAC) ===
 FFTReal initialized with N=4096 (IFFT gain = 4096)
 ✅ MCLT initialized: N=4096, M=2048, hop=2048
