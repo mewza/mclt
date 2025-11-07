@@ -1,5 +1,5 @@
 MCLTReal v1.35
-(C) 2025 Dmitry Boldyrev
+(c) 2025 Dmitry Boldyrev
 
 Written by Dmitry Boldyrev with assistance of AI (claude.ai)
 
