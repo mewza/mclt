@@ -53,13 +53,15 @@ enum WindowType {
 // MOCK FFTReal Implementation (with known IFFT gain of N)
 // ============================================================================
 
+// Reference FFT/iFFT implementation for comparing against FFTReal
+
 template<typename T>
-class FFTReal {
+class FFTRealRef {
 private:
     int N;
     
 public:
-    FFTReal(int n) : N(n) {
+    FFTRealRef(int n) : N(n) {
         ZITA_LOG("FFTReal initialized with N=%d (IFFT gain = %d)", N, N);
     }
     
@@ -111,12 +113,6 @@ public:
         }
     }
 };
-
-// ============================================================================
-// INCLUDE THE FIXED MCLT IMPLEMENTATION
-// ============================================================================
-
-#include "mclt_standalone.h"
 
 // ============================================================================
 // TEST SUITE (User's original tests)
