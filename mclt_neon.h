@@ -2,12 +2,13 @@
  ***    MCLTReal v1.50
  ***    mclt_neon.h -- DO NOT include this file, instead only include mclt.h
  ***
- ***    • Window COLA-based scaling
- ***    • NO extra windowing (window is built into MCLT math)
- ***    • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
- ***    • Uses FFT-to-MCLT mapping (efficient)
- ***   • 3-buffer architecture for flexible overlap
- ***    • Optimized overlap-add for common hop sizes
+ ***    Features include:
+ ***        • Hybrid TDAC/COLA-based scaling with explicit overlap compensation
+ ***        • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
+ ***        • Uses FFT-to-MCLT mapping for efficiency (uses FFTReal highly optimized and accurate FFT)
+ ***        • 3-buffer architecture for flexible overlap
+ ***        • Optimized overlap-add for common hop sizes
+ ***        • NEON optimizations
  ***
  ***    @contact  E-mail: subband@gmail.com
  ***    @home https://github.com/mewza/MCLT/
