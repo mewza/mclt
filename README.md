@@ -1,7 +1,7 @@
 MCLTReal v1.50
 (c) 2025 Dmitry Boldyrev
 
-Written by Dmitry Boldyrev with assistance of AI (claude.ai)
+Written by Dmitry Boldyrev with assistance of AI (claude.ai and GROK)
 
 Forward / Reverse MCLT (Modulated complex lapped transform) C++ class 
 templatable with a SIMD vector support.
