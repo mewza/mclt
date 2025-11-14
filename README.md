@@ -6,9 +6,11 @@ Written by Dmitry Boldyrev with assistance of AI (claude.ai and GROK)
 Forward / Reverse MCLT (Modulated complex lapped transform) C++ class 
 templatable with a SIMD vector support.
 
-LICENSE: FREE for Commercial and non-commercial use, but would appreciate
-credits in About box and/or documentation, or READMEs
+Originally published by H. Malvar in 1999, see:
 
+    H. Malvar, "A Modulated Complex Lapped Transform And Its Applications to Audio Processing". Proc. International Conference on Acoustics, Speech and Signal Processing, 1999.
+    H. Malvar, "Fast Algorithm for the Modulated Complex Lapped Transform", IEEE Signal Processing Letters, vol. 10, No. 1, 2003.
+    
   Features include:
     
     • Window COLA-based scaling
@@ -17,6 +19,9 @@ credits in About box and/or documentation, or READMEs
     • Uses FFT-to-MCLT mapping (efficient)
     • 3-buffer architecture for flexible overlap
     • Optimized overlap-add for common hop sizes
+
+LICENSE: FREE for Commercial and non-commercial use, but would appreciate
+credits in About box and/or documentation, or READMEs
 
 This sofrware is a PEACEWARE by using it you accept that this will not be used
 for any purposes related to harming innocent people. Violation of the terms
