@@ -19,6 +19,7 @@ Originally published by H. Malvar in 1999, see:
     • Uses FFT-to-MCLT mapping (efficient)
     • 3-buffer architecture for flexible overlap
     • Optimized overlap-add for common hop sizes
+    • NEON optimizations
 
 LICENSE: FREE for Commercial and non-commercial use, but would appreciate
 credits in About box and/or documentation, or READMEs
