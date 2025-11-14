@@ -3,8 +3,8 @@ MCLTReal v1.50
 
 Written by Dmitry Boldyrev with assistance of AI (claude.ai and GROK)
 
-Forward / Reverse MCLT (Modulated complex lapped transform originally proposed by H. Malvar in 1999) C++ class 
-templatable with a SIMD vector support.  It is fully compliant with Malvar's scaling.
+Forward / Reverse MCLT (Modulated complex lapped transform by H. Malvar) C++ class 
+templatable with a SIMD vector support and NEON optimized.
 
 Originally published by H. Malvar in 1999, see:
 
