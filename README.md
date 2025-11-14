@@ -13,13 +13,12 @@ Originally published by H. Malvar in 1999, see:
     
   Features include:
     
-    • Window COLA-based scaling
-    • NO extra windowing (window is built into MCLT math)
-    • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
-    • Uses FFT-to-MCLT mapping for efficiency based on a highly optimized FFTReal implementation
-    • 3-buffer architecture for flexible overlap
-    • Optimized overlap-add for common hop sizes
-    • NEON optimizations
+        • Hybrid TDAC/COLA-based scaling with explicit overlap compensation
+        • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
+        • Uses FFT-to-MCLT mapping (efficient)
+        • 3-buffer architecture for flexible overlap
+        • Optimized overlap-add for common hop sizes
+        • NEON optimizations
 
 LICENSE: FREE for Commercial and non-commercial use, but would appreciate
 credits in About box and/or documentation, or READMEs
