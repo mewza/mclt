@@ -16,7 +16,7 @@ Originally published by H. Malvar in 1999, see:
     • Window COLA-based scaling
     • NO extra windowing (window is built into MCLT math)
     • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
-    • Uses FFT-to-MCLT mapping (efficient)
+    • Uses FFT-to-MCLT mapping for efficiency based on a highly optimized FFTReal implementation
     • 3-buffer architecture for flexible overlap
     • Optimized overlap-add for common hop sizes
     • NEON optimizations
