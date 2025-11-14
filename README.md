@@ -15,7 +15,7 @@ Originally published by H. Malvar in 1999, see:
     
         • Hybrid TDAC/COLA-based scaling with explicit overlap compensation
         • Supports arbitrary HOP sizes with proper WOLA (Weighted Overlap-Add)
-        • Uses FFT-to-MCLT mapping (efficient)
+        • Uses FFT-to-MCLT mapping for efficiency (based on FFTReal highly optimized and accurate FFT)
         • 3-buffer architecture for flexible overlap
         • Optimized overlap-add for common hop sizes
         • NEON optimizations
