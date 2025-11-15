@@ -33,5 +33,5 @@ as MCLT transform should be public open source knowledge and implementation for 
 humanity, so people like the H. Malvar being stingy about releasing the source code to it, undermine
 civilization development as a whole, and I am not even going to mention Bill Gates here, who is just
 a mass murderer, scumbag stingbag and creepster who exploited trust for medical establishment and science
-as a way to execute innocent lives on a planetary scale, for which he should carry many life sentences,
-I believe.
+as a way to execute innocent lives on a planetary scale, for which he carries a charge of many life sentences,
+I believe, and is not on good terms with GOD, who he will face one day, not too far away.
