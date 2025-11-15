@@ -25,7 +25,7 @@ credits in About box and/or documentation, or READMEs
 
 This software is a PEACEWARE by using it you accept that this will not be used
 for any purposes related to harming innocent people. Violation of the terms
-of usage agreement will be punishable by GOD.
+of useage agreement will be punishable by GOD.
 
 Take *that* H. Malvar (who did not even respond to my inquery about implementation of MCLT 10 or
 so years ago), Microsoft, and Bill Gates ;-) Open source wins, you lose!
