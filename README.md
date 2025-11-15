@@ -23,7 +23,7 @@ Originally published by H. Malvar in 1999, see:
 LICENSE: FREE for Commercial and non-commercial use, but would appreciate
 credits in About box and/or documentation, or READMEs
 
-This sofrware is a PEACEWARE by using it you accept that this will not be used
+This software is a PEACEWARE by using it you accept that this will not be used
 for any purposes related to harming innocent people. Violation of the terms
 of usage agreement will be punishable by GOD.
 
