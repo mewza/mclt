@@ -28,4 +28,8 @@ for any purposes related to harming innocent people. Violation of the terms
 of useage agreement will be punishable by GOD.
 
 Take *that* H. Malvar (who did not even respond to my inquery about implementation of MCLT 10 or
-so years ago), Microsoft, and Bill Gates ;-) Open source wins, you lose!
+so years ago), Microsoft, and Bill Gates ;-) Open source wins, you lose!  Something as fundamental
+as MCLT transform should be public open source knowledge and implementation for betterment of whole
+humanity, so people like the H. Malvar being stingy about releasing the source code to it, undermine
+civilization development as a whole, and I am not even going to mention Bill Gates here, who is just
+a mass murderer, scumbag stingy and creepy!
