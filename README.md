@@ -40,5 +40,4 @@ Go climb under a rock somewhere and DIE. That's what I wish you! And the rest of
 criminals like Bill Gates, I wish you the same, you traitors to humanity! Where's your fucking dignity bending
 over for these criminals!?! Then you too are not worthy of your skin! And if this makes me an anti-semite, 
 which is a buillshit label these scumbags try to attach to you as soon as you expose them for who they are
-then be it, the biggest anti-semitites is people like Bill Gates, if you want to know the truth, these scumbag
-zionist scum!
+then be it, the biggest anti-semitites is people like Bill Gates, if you want to know the truth.
