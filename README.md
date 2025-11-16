@@ -35,4 +35,5 @@ civilization development as a whole, and I am not even going to mention Bill Gat
 a mass murderer, scumbag stingbag and creepster who exploited trust for medical establishment and science
 as a way to execute innocent lives on a planetary scale, for which he carries a charge of many life sentences,
 I believe, and is not on good terms with GOD, who he will face one day, not too far away. Hey Bill Gates, 
-go and fuck yourself!! I don't need your fucking money!
+go and fuck yourself!! I don't need your fucking money, I don't take money from criminal fucktards like yourself!
+Go climb under a rock somewhere and DIE. That's what I wish you!
