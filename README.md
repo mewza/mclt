@@ -38,4 +38,6 @@ I believe, and is not on good terms with GOD, who he will face one day, not too 
 go and fuck yourself!! I don't need your fucking money, I don't take money from criminal fucktards like yourself!
 Go climb under a rock somewhere and DIE. That's what I wish you! And the rest of you, who take money from
 criminals like Bill Gates, I wish you the same, you traitors to humanity! Where's your fucking dignity bending
-over for these criminals!?! Then you too are not worthy of your skin!
+over for these criminals!?! Then you too are not worthy of your skin! And if this makes me an anti-semite, 
+which is a buillshit label these scumbags try to attach to you as soon as you expose them for who they are
+then be it, the biggest anti-semitites is people like Bill Gates, if you want to know the truth.
